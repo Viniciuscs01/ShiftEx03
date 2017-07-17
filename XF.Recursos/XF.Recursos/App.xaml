@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XF.Recursos.App">
+    <Application.Resources>
+
+        <!-- Application resource dictionary -->
+        <ResourceDictionary>
+            <!-- Explícito -->
+            <Style x:Key="BotaoPadrao" TargetType="Button">
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="BackgroundColor" Value="Green" />
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="FontSize" Value="Small" />
+            </Style>
+            <Style x:Key="LabelViewCellPai" TargetType="Label">
+                <Setter Property="TextColor" Value="Blue" />
+                <Setter Property="FontFamily" Value="Arial" />
+                <Setter Property="FontSize" Value="16" />
+            </Style>
+            <Style x:Key="LabelViewCellFilho" TargetType="Label">
+                <Setter Property="TextColor" Value="Blue" />
+                <Setter Property="FontFamily" Value="Arial" />
+                <Setter Property="FontSize" Value="12" />
+            </Style>
+            <!-- Implícito -->
+            <Style TargetType="Label">
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="TextColor" Value="Blue" />
+                <Setter Property="FontSize" Value="18" />
+                <Setter Property="FontFamily" Value="Arial" />
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
