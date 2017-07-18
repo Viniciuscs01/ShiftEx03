@@ -12,6 +12,9 @@
                 <Button x:Name="btnGlobal" Text="Estilo Global" Clicked="btnGlobal_Clicked"></Button>
                 <Button x:Name="btnDinamico" Text="Estilo dinâmico" Clicked="btnDinamico_Clicked"></Button>
                 <Button x:Name="btnTriggers" Text="Estilo event triggres" Clicked="btnTriggers_Clicked"></Button>
+                <Label FontSize="20" Text="TemplatedPage"></Label>
+                <Button x:Name="btnTemplate" Text="TemplatedPage" Clicked="btnTemplate_Clicked"></Button>
+                <Button x:Name="btnTemplate2" Text="TemplatedPage 2" Clicked="btnTemplate2_Clicked"></Button>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>
