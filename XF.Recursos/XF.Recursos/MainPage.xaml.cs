@@ -43,5 +43,31 @@ namespace XF.Recursos
         {
             await Navigation.PushAsync(new Theme.ThemeView());
         }
+
+        private async void btnHome_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new PassParameter.HomeView(DateTime.Now.ToString("u")));
+        }
+
+        private async void btnMC_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new PassParameter.MCHomeView());
+        }
+
+        private async void btnListSimples_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Lista.SimplesView());
+
+        }
+
+        private async void btnListClasse_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Lista.ClasseView());
+        }
+
+        private async void btnProduto_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Lista.ProdutoView());
+        }
     }
 }

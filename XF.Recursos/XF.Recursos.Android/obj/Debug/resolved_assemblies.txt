@@ -46,3 +46,4 @@ C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.And
 C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\Mono.Security.dll
 C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\System.Resources.ResourceManager.dll
 C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\System.Diagnostics.Tools.dll
+C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\System.Xml.XDocument.dll

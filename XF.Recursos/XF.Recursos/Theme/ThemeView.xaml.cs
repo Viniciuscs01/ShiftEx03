@@ -42,6 +42,6 @@ namespace XF.Recursos.Theme
         {
             originalTemplate = !originalTemplate;
             contentView.ControlTemplate = (originalTemplate) ? fuchsiaTemplate : maroonTemplate;
-        } 
+        }
     }
 }

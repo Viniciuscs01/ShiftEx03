@@ -15,6 +15,13 @@
                 <Label FontSize="20" Text="TemplatedPage"></Label>
                 <Button x:Name="btnTemplate" Text="TemplatedPage" Clicked="btnTemplate_Clicked"></Button>
                 <Button x:Name="btnTemplate2" Text="TemplatedPage 2" Clicked="btnTemplate2_Clicked"></Button>
+                <Label FontSize="20" Text="Passar parametro"></Label>
+                <Button x:Name="btnHome" Text="Home" Clicked="btnHome_Clicked"></Button>
+                <Button x:Name="btnMC" Text="Messaging Center" Clicked="btnMC_Clicked"></Button>
+                <Label FontSize="20" Text="ListView"></Label>
+                <Button x:Name="btnListSimples" Text="Simples" Clicked="btnListSimples_Clicked"></Button>
+                <Button x:Name="btnListClasse" Text="Classe" Clicked="btnListClasse_Clicked"></Button>
+                <Button x:Name="btnProduto" Text="Produto" Clicked="btnProduto_Clicked"></Button>
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

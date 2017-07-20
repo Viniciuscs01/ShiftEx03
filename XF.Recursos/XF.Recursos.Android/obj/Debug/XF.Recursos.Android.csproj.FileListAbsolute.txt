@@ -48,3 +48,5 @@ C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.And
 C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\XF.Recursos.Android.dll.mdb
 C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\XF.Recursos.dll.mdb
+C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\bin\Debug\XF.Recursos.Android.dll.config
+C:\Users\Administrator\Downloads\XF.Recursos_Modelo1\XF.Recursos\XF.Recursos.Android\bin\Debug\XF.Recursos.dll.config
